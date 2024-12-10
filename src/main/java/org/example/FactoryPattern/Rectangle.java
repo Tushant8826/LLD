@@ -1,4 +1,4 @@
-package org.example.Factory;
+package org.example.FactoryPattern;
 
 public class Rectangle implements Shape{
     @Override
